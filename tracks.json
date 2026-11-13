@@ -1,0 +1,302 @@
+[
+  {
+    "name": "futuretone - テレカクシ思春期",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divafuturetone/futuretone_/main_5.vmd"
+  },
+  {
+    "name": "futuretone - hand_in_hand",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divafuturetone/futuretone_hand_in_han/main.vmd"
+  },
+  {
+    "name": "diva_x",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x/main.vmd"
+  },
+  {
+    "name": "diva_x - すろぉもぉしょん",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_/main.vmd"
+  },
+  {
+    "name": "diva_x - Mrs.Pumpkinの滑稽な夢",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_mrs_pumpkin_/main.vmd"
+  },
+  {
+    "name": "diva_x - strangers",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_strangers/main.vmd"
+  },
+  {
+    "name": "diva_x - キュート・メドレー ～アイドル サウンズ～",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_/main_2.vmd"
+  },
+  {
+    "name": "diva_x - 紅一葉",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_/main_3.vmd"
+  },
+  {
+    "name": "diva_x - sharingtheworld",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_sharingtheworld/main.vmd"
+  },
+  {
+    "name": "diva_x - ツギハギスタッカート",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_/main_4.vmd"
+  },
+  {
+    "name": "diva_x - 恋愛裁判",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_/main_5.vmd"
+  },
+  {
+    "name": "diva_x - 脳内革命ガール",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_/main_6.vmd"
+  },
+  {
+    "name": "diva_x - ロストワンの号哭",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_/main_7.vmd"
+  },
+  {
+    "name": "diva_x - amazingdolce_meiko",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_amazingdolce_me/main.vmd"
+  },
+  {
+    "name": "diva_x - amazingdolce_len",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_amazingdolce_le/main.vmd"
+  },
+  {
+    "name": "diva_x - amazingdolce_rin",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_amazingdolce_ri/main.vmd"
+  },
+  {
+    "name": "diva_x - 聖槍爆裂ボーイ",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_/main_8.vmd"
+  },
+  {
+    "name": "diva_x - ストリーミングハート",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_lite_motions_mmd_divaxmotions_l/diva_x_/main_9.vmd"
+  },
+  {
+    "name": "39Music",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_mega39_megamix_39music_39music/39music/main.vmd",
+    "camMotionFile": "giants/game_mmd_mega39_megamix_39music_39music/39music/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/705e245f98b08973e04a32f437eb301dc5b683ae.mp3"
+  },
+  {
+    "name": "AlienAlien",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_mega39_megamix_alienalien_alien/alienalien/main.vmd",
+    "camMotionFile": "giants/game_mmd_mega39_megamix_alienalien_alien/alienalien/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/9d32c2a0d0ed9ccc00b196638859b6e2a9711dc6.mp3"
+  },
+  {
+    "name": "CatchTheWave",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_mega39_megamix_catchthewave_cat/catchthewave/main.vmd",
+    "camMotionFile": "giants/game_mmd_mega39_megamix_catchthewave_cat/catchthewave/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/f91591368d0f6e8e46d4419a4815c3d07543492c.mp3"
+  },
+  {
+    "name": "Teo",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_mega39_megamix_mmd_teo_motion_t/teo/main.vmd",
+    "camMotionFile": "giants/game_mmd_mega39_megamix_mmd_teo_motion_t/teo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/fefee74f3947c50d8c07eed3d94c388adc588f9f.mp3"
+  },
+  {
+    "name": "DUMDi DUMDi",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_murumasa4429_dumdi_dumdi_dumdi_/dumdi_dumdi/main.vmd"
+  },
+  {
+    "name": "DUMDi DUMDi - DUMDi DUMDi リップ",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_murumasa4429_dumdi_dumdi_dumdi_/dumdi_dumdi_dumdi_dumd/main.vmd"
+  },
+  {
+    "name": "What You Waiting For - What You Wating For リップ",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_murumasa4429_what_you_waiting_f/what_you_waiting_for_w/main.vmd"
+  },
+  {
+    "name": "GOMYWAY!!",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_other_gomyway/gomyway_/main.vmd",
+    "camMotionFile": "giants/game_mmd_other_gomyway/gomyway_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/cde2d17d1deb0a2b77393e08a4afb7abec6782ac.mp3"
+  },
+  {
+    "name": "HappySynthesizer2020REMAKE (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_other_happysynthesizer2020remak/happysynthesizer2020re/main.vmd",
+    "partnerMotionFile": "giants/game_mmd_other_happysynthesizer2020remak/happysynthesizer2020re/partner.vmd",
+    "camMotionFile": "giants/game_mmd_other_happysynthesizer2020remak/happysynthesizer2020re/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/1a52957129216324ef07a46cc418953a54675e15.mp3"
+  },
+  {
+    "name": "PianoXForteXScandal_KAITO_ver",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_other_pianoxfortexscandal_kaito/pianoxfortexscandal_ka/main.vmd",
+    "camMotionFile": "giants/game_mmd_other_pianoxfortexscandal_kaito/pianoxfortexscandal_ka/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/ba3ac05c4e228a7403d73173fe07ebc6ef81923f.mp3"
+  },
+  {
+    "name": "Relations",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_other_relations/relations/main.vmd",
+    "camMotionFile": "giants/game_mmd_other_relations/relations/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/6bf0b95caec98333d9edbb07bb90a6a08c4e77e8.mp3"
+  },
+  {
+    "name": "Relations - mmd_relations_LUK",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_other_relations/relations_mmd_relation/main.vmd",
+    "camMotionFile": "giants/game_mmd_other_relations/relations/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/6bf0b95caec98333d9edbb07bb90a6a08c4e77e8.mp3"
+  },
+  {
+    "name": "全ての人の魂の詩 (t.komine Remix)",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/_t_komine_remix_/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/_t_komine_remix_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/8890b1bf3889635583bc100ba7cc97b3d9b653a1.mp3"
+  },
+  {
+    "name": "全ての人の魂の詩 (t.komine Remix) - mmd_全ての人の魂の詩 (t.komine Remix)_T-POSE",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/_t_komine_remix_mmd_t_/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/_t_komine_remix_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/8890b1bf3889635583bc100ba7cc97b3d9b653a1.mp3"
+  },
+  {
+    "name": "AWayOfLife-Deep Inside My Mind Remix-",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/awayoflife_deep_inside/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/awayoflife_deep_inside/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/636a931690862d88f4a98caffedef09d1b78b08b.mp3"
+  },
+  {
+    "name": "AWayOfLife-Deep Inside My Mind Remix- - mmd_WayOfLife_motion_A-Pose",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/awayoflife_deep_inside/main_2.vmd",
+    "camMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/awayoflife_deep_inside/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/636a931690862d88f4a98caffedef09d1b78b08b.mp3"
+  },
+  {
+    "name": "AWayOfLife-Deep Inside My Mind Remix- - mmd_WayOfLife_motion_TDA",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/awayoflife_deep_inside/main_3.vmd",
+    "camMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/awayoflife_deep_inside/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/636a931690862d88f4a98caffedef09d1b78b08b.mp3"
+  },
+  {
+    "name": "AWayOfLife-Deep Inside My Mind Remix- - mmd_WayOfLife_motion_TDA_A-Pose",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/awayoflife_deep_inside/main_4.vmd",
+    "camMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/awayoflife_deep_inside/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/636a931690862d88f4a98caffedef09d1b78b08b.mp3"
+  },
+  {
+    "name": "Burn My Dread (Novoiski REMIX)",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/burn_my_dread_novoiski/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/d84d92fa50981f3b0cae52afa3abd9a28f4b6b83.mp3"
+  },
+  {
+    "name": "Burn My Dread (Novoiski REMIX) - mmd_BurnMyDreadRemix_motion_T-POSE",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/burn_my_dread_novoiski/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/d84d92fa50981f3b0cae52afa3abd9a28f4b6b83.mp3"
+  },
+  {
+    "name": "MassDestruction",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/massdestruction/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/massdestruction/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/e296a897b5e070c88a33c3768c54357b1ad4ade1.mp3"
+  },
+  {
+    "name": "MassDestruction - mmd_MassDestruction_T-POSE",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/massdestruction_mmd_ma/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_3_dancing_in_moonlight_/massdestruction/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/e296a897b5e070c88a33c3768c54357b1ad4ade1.mp3"
+  },
+  {
+    "name": "BreakOutOf",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_4_dancing_all_night_bre/breakoutof/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_4_dancing_all_night_bre/breakoutof/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/781780d1acbfe4ac6cb773527a4dc43797c80a80.mp3"
+  },
+  {
+    "name": "BreakOutOf - mmd_BreakOutOf_motion_T-POSED",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_4_dancing_all_night_bre/breakoutof_mmd_breakou/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_4_dancing_all_night_bre/breakoutof/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/781780d1acbfe4ac6cb773527a4dc43797c80a80.mp3"
+  },
+  {
+    "name": "Heaven (ATOLS Remix)",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_4_dancing_all_night_hea/heaven_atols_remix_/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_4_dancing_all_night_hea/heaven_atols_remix_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/0fdb3c23a5c32f37dd383477ce252a63957bcd18.mp3"
+  },
+  {
+    "name": "Specialist (Never End ver.)",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_4_dancing_all_night_spe/specialist_never_end_v/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_4_dancing_all_night_spe/specialist_never_end_v/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/7971007daf1f68b486b4d9adc2588b07865158fe.mp3"
+  },
+  {
+    "name": "YourAffection",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_4_dancing_all_night_you/youraffection/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_4_dancing_all_night_you/youraffection/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/20cf14bed64ac83419c4a2f3d8d89ec6f30e036d.mp3"
+  },
+  {
+    "name": "Last Surprise (✰Taku Takahashi Remix)",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_5_dancing_in_starlight_/last_surprise_taku_tak/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_5_dancing_in_starlight_/last_surprise_taku_tak/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/16d59ca5d153aaea229ae319cfd49ee336c07839.mp3"
+  },
+  {
+    "name": "RiversInTheDesert",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_5_dancing_in_starlight_/riversinthedesert/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_5_dancing_in_starlight_/riversinthedesert/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/58acdb06c6d63463d832cf0534e7906f2b154908.mp3"
+  },
+  {
+    "name": "RiversInTheDesert(MITO remix)",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_5_dancing_in_starlight_/riversinthedesert_mito/main.vmd",
+    "camMotionFile": "giants/game_mmd_persona_5_dancing_in_starlight_/riversinthedesert_mito/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/0ae1349d3426719b092ffe6db8c094f255c42269.mp3"
+  },
+  {
+    "name": "RiversInTheDesert(MITO remix) - mmd_RiversInTheDesert(mito REMIX)_T-Pose",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_persona_5_dancing_in_starlight_/riversinthedesert_mito/main_2.vmd",
+    "camMotionFile": "giants/game_mmd_persona_5_dancing_in_starlight_/riversinthedesert_mito/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/0ae1349d3426719b092ffe6db8c094f255c42269.mp3"
+  }
+]
