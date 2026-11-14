@@ -130,7 +130,8 @@
   {
     "name": "What You Waiting For - What You Wating For リップ",
     "group": "Creators",
-    "modelMotionFile": "giants/game_mmd_murumasa4429_what_you_waiting_f/what_you_waiting_for_w/main.vmd"
+    "modelMotionFile": "giants/game_mmd_murumasa4429_what_you_waiting_f/what_you_waiting_for_w/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/3a61810149388980.mp3"
   },
   {
     "name": "GOMYWAY!!",
